@@ -1,3 +1,5 @@
+import '../css/SidebarMenu.css'
+
 function SidebarMenu() {
 
     return (

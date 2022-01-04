@@ -1,4 +1,5 @@
 import SidebarMenu from './SidebarMenu'
+import '../css/Sidebar.css'
 
 function Sidebar() {
 

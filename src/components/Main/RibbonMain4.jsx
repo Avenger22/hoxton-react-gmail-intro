@@ -1,3 +1,5 @@
+import '../css/RibbonMain4.css'
+
 function RibbonMain4() {
 
     return (

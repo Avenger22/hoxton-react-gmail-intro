@@ -1,3 +1,5 @@
+import '../css/RightHeaderMenu.css'
+
 function RightHeaderMenu() {
 
     return (

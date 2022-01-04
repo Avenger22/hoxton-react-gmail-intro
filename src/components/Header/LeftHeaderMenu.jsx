@@ -1,3 +1,5 @@
+import '../css/LeftHeaderMenu.css'
+
 function LeftHeaderMenu() {
 
     return (
